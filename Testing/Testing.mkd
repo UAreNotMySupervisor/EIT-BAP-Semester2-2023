@@ -1,0 +1,81 @@
+Lukas Weitzer
+
+
+# Testing considerations
+
+## Integration testing
+
+Integration testing is cruicial in the development process:
+
+- Integration points
+
+    Wordpress, HBL, maps plugin, photo identification plugin, themes, third-party services
+    Own code: custome plugins, child-themes
+
+- Test planning and Test
+
+    Developing scenarios in which those components interact
+    Using the (controlled) development environment. Also checking versions of all used components.
+
+- Debugging issues
+
+- Re-testing
+
+    After introducing changes the test has to be conducted again. Performance should also be confirmed before ending the testing.
+
+- Documentation and monitoring
+
+    Changes made to the integration point have to be documented and monitored during the whole development process.
+
+
+## Usability testing
+
+Usability testing should be conducted at the end or later stages of development:
+
+- Define criterias
+
+    Includes the functionalities of the website (booking, search, contact, etc.),website features like navigation, information about the services, etc.
+
+- Test planning
+
+    Creating test scenarios for various typical user interactions
+
+- Observation and analysis
+
+    Document any issus the testers encounter during the test and analyse why those issus come up
+
+- Re-testing
+
+    After implementing suitable improvments the test can start again. This can be done iterative until the criterias of the test are being met or the issus are not important enough for further consideration (prioritization)
+
+
+
+## User acceptance testing (UAT)
+
+UAT should be conducted before handing the project to the contractor (after Integration and Usability testing):
+
+- Define criterias
+
+    Including requirments but also check in with contractor (Functionality, performance, content, various devices)
+
+- Test planning
+
+    Who tests? Development team, project manager, contractor, + volunteering testers (user without any knwoledge about the product)
+
+- Test environment
+
+    Development system (Uniform Server) + maybe a hosting service (when the client already has a website)
+
+- Documentation
+
+    Issus during testing, User Experience during testing => re-testing could be necessary
+
+    After this step the project can be handed to the contractor and go live
+
+
+
+
+
+
+
+

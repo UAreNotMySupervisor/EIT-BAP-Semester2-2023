@@ -1,0 +1,13 @@
+Lukas Weitzer
+
+# Child theme considerations
+
+Due to the fact, that our project will involve the development of custom plugin features, it will be necessary to edit the used theme as well.
+
+After some research, the concept of child-themes in wordpress seems to suit our needs perfectly.
+It makes it easy to keep the parent theme up to date, benefit from new features and securtiy fixes without needing to configure or adjust everything again.
+It also ensures that our changes get preseverd and do not get effected by an updated parent theme.
+
+This will be helpful when implementing third party features like google maps or the photo identification. It could also play a role when we add customizations in order to meet the requirements.
+
+**Conclusion:** The use of child themes seems advantagous to ensure maintainability

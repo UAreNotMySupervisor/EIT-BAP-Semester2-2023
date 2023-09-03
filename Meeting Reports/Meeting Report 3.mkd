@@ -1,0 +1,15 @@
+# Haukainga Home Winds
+# Meeting Report 3
+
+Date: 01 September 2023
+Location: Student Village Villa 12
+
+Participants: Lukas, Talgat, Michael
+
+We already distributed the tasks for the week after our regular course session on monday. In this meeting we reviewed the work and findings of all team members and discussed on improvements which were necessary.
+
+Talagt investigated the database structure and potentially necessary adjustments/additions to capture all the data which is necessary to fulfill the requirements.
+
+Michael examined the HBL plugin. Documented findings, integration possibiliets for third-party services and the functionalities offered by the plugin.
+
+Lukas did research on (child)-themes and the way we could consider their integration into the project. Additionaly research and documentation on integration, usability and user acceptance testing was conducted.
