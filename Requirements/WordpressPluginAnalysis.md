@@ -47,7 +47,7 @@ In the following table, all assembled plugins will be listed. For each plugin, w
         </td>
         <td>
             <ul>
-                <li>Photo identification</li>
+                <li>Photo identification (can be added with add-on</li>
                 <li>Google Maps integration</li>
             </ul>
         </td>
@@ -68,7 +68,6 @@ In the following table, all assembled plugins will be listed. For each plugin, w
                 <li>Different fees (per season)</li>
                 <li>different languages</li>
                 <li>Rules for minimum and maximum stay</li>
-                <li></li>
             </ul>
         </td>
         <td>
@@ -77,7 +76,7 @@ In the following table, all assembled plugins will be listed. For each plugin, w
                 <li>Photo identification</li>
             </ul>
         </td>
-        <td>+ Comes as an extension to WooCommerce<br>+ has pro version and additional addons<br>- Less features then Hotel Booking Lite<br>+ has better reviews then Hotel Booking Lite
+        <td>+ Comes as an extension to WooCommerce<br>+ has pro version and additional addons<br>- Less features then Hotel Booking Lite<br> 
         </td>
     </tr>
     <tr>
@@ -97,11 +96,41 @@ In the following table, all assembled plugins will be listed. For each plugin, w
         <td>
             <ul>
                 <li>Basic booking operations</li>
-                <li></li>
+                <li>different payment options (Pro)</li>
+                <li>Allows Property Management</li>
+                <li>Rating and Feedback options (Pro)</li>
+                <li>Inlcludes search funtionality</li>
             </ul>
         </td>
+        <td>
+            The following items are not directly stated in the Plugin descriptions, but are very likely provided by WooCommerce (which is needed for this Plugin):<br>
+            <ul>
+                <li>Different fees (per season)</li>
+                <li>Allows various languages</li>
+                <li>Stores Payment history / Status and Payment information</li>
+                <li>Rules for minimum and maximum stay</li>
+                <li>Photo identification</li>
+            </ul>
+        </td>
+        <td>- needs Pro version for most of the features<br>+ already includes maps in Pro Version<br>+ based on WooCommerce<br>+ has a good documentation<br>+ As an add-on to WooCommerce, a lot of different plugins can be added to this plugin. </td>
+    </tr>
+    <tr>
+        <td><strong>Polylang</strong><br>by WP SYNTEX</td>
+        <td>Allows easy translations</td>
         <td></td>
-        <td>- needs Pro version for most of the features</td>
+        <td>+ can be easily added to WooCommerce Website    </td>
+    </tr>
+    <tr>
+        <td><strong>WP Go Maps (formerly WP Google Maps)</strong><br>by WP Go Maps (formerly WP Google Maps)</td>
+        <td>Allows easy integration of Google Maps</td>
+        <td></td>
+        <td>+ uses shortcodes to implement maps to the website </td>
+    </tr>
+    <tr>
+        <td><strong>Real ID: Identity Verification for WooCommerce</strong><br>by verdictapps</td>
+        <td>Allows a more secure photo identification</td>
+        <td></td>
+        <td>+ add-on to WooCommerce Websites<br>+ more secure then simple file upload </td>
     </tr>
 </table>
 
@@ -114,20 +143,7 @@ In the following table, all assembled plugins will be listed. For each plugin, w
 - WooCommerce Easy Booking: https://wordpress.org/plugins/woocommerce-easy-booking-system/
 - WP Hotel Booking: https://wordpress.org/plugins/wp-hotel-booking/
 - Hotel Booking: https://wordpress.org/plugins/nd-booking/
-
-### List of other links:
-
-- https://wordpress.org/plugins/nd-booking/#description
-- https://wordpress.org/plugins/tourfic/
-- https://wordpress.org/plugins/booking-system/
-- https://wordpress.org/plugins/polylang/ (important for different languages)
-- https://wordpress.org/plugins/checkfront-wp-booking/
-- https://wordpress.org/plugins/beds24-online-booking/
-- https://wordpress.org/plugins/wp-time-slots-booking-form/
-- https://wordpress.org/plugins/ba-book-everything/
-- https://wordpress.org/plugins/forminator/
-- https://wordpress.org/plugins/guestplan-booking-widget/
-- https://wordpress.org/plugins/woocommerce/ (and extensions)
-- https://wordpress.org/plugins/better-wp-security/ 
-- https://wordpress.org/plugins/wp-google-maps/ (important for Google Maps integration)
-- https://wordpress.org/plugins/identity-verification-for-woocommerce/ (important for photo identification)
+- Tourfic: https://wordpress.org/plugins/tourfic/
+- Polylang: https://wordpress.org/plugins/polylang/
+- WP Go Maps (formerly WP Google Maps): https://wordpress.org/plugins/wp-google-maps/
+- Real ID: Identity Verification for WooCommerce: https://wordpress.org/plugins/identity-verification-for-woocommerce/
