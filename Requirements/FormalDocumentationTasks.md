@@ -7,33 +7,55 @@ In this document, we list all the different parts of the formal documentation, w
 ## Formal Documentation:
 
 - [ ] Introduction
+  - Executive summary (synopsis)
 - [ ] Analysis/Reflection of Business issues
   - [ ] Ensemble of different plugins (Photo identification and Google Maps integration)
-  - [ ] Decision against writing own plugin
+    - comparison matrix with features as a metric for selection (comparative analysis/feasibility)
+    - provide recommendation
+  - [ ] Decision against writing own plugin (cost benefit analysis - time/expertise)
   - [ ] Missing features due to plugin fees
   - [ ] Handling feedback for a property
+    - list methods, provide recommendation
   - [ ] Refund policy
 - [ ] Key issues:
-  - [ ] Security
-  - [ ] Performance and scaleability
+  - [ ] Security (certificates, authentication, SSO, compliance)
+    - be explicit
+  - [ ] Performance and scalability
+    - host + platform performance
   - [ ] Maintainability
+    - long term support
   - [ ] Compatibility
+    - explain
 - [ ] Analysis/Reflection of Program Specifications
+  Business/organisational Modules
   - [ ] Booking Management
+    - users (client/owner)
+    - scheduling
+    - properties
   - [ ] User Management
   - [ ] Property Management
+  - [ ] System administration
+    - separation of concerns (who administers what? host vs owner)
   - [ ] requirements?
 - [ ] Design Documentation:
-  - [ ] generall website design (wireframes)
+  - [ ] enterprise/architecture model or DFD level 0 (high level view of the system)
+  - [ ] general website design (wireframes)
+  - [ ] Sitemap
 - [ ] Diagrams
   - [ ] ERD diagram
-  - [ ] DFD diagram
+  - [ ] UML/DFD diagram
   - [ ] Activity diagram(s):
-    - [ ] Booking process
-    - [ ] Account Management
-    - [ ] Property Management
+    - [ ] Booking process (UML: communication, seq, activity, use case)
+    - [ ] Account Management (e.g. how does a refund work?)
+    - [ ] Property Management (e.g how do reviews/feedback work?)
     - [ ] Feedback handling
 - [ ] Testing:
   - [ ] User acceptance test
+  - [ ] Systems testing (security, performance)
+  - [ ] Integration (plugins + wordpress + theme)
+  - [ ] Unit testing - no code
   - [ ] OWASP testing framework description
+    - extension of systems testing 
+    - security
+    - privacy compliance (incl. cookies, GDPR, etc.)
 - [ ] Conclusion
