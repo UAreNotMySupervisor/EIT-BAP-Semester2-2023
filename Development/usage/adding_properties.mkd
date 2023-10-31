@@ -1,0 +1,38 @@
+# Adding a property
+
+The "Hotel Booking" Plugin comes with an easy and convinient way to add new properties.
+
+After you login into WordPress you can go to the Accomodation Types to edit all releveant information necessary to publish a new property.
+
+### This section explains the different settings and functionalities we use:
+
+    We are using "Categories" to assign a city/region and house type to a property. This will be handy when searching for specific properties.
+
+    "Tags" can be used to further specify the properties, additional information about the property and also enhances searchability.
+
+    "Amenities" can be added to give the customer a better understanding of what the property offers and additional information that might be important.
+
+    Because we are using the "Lite" (Free) version of the plugin we cant make use of the "Attributes" feature.
+
+    This would be handy for increase the level of detail you can search for specific properties. We highly recommend upgrading to the full version of the plugin to leverage all features and give a even better user experience to the customers.
+
+    "Seasons" allow the property owner to change the rates for the property depending on different seasons. Summer/Winter, Public holidays, etc.
+
+    "Rates" can be used to offer different prices for the same property. This could be used for serviced stays, special features, access to restricted areas of the property, etc.
+
+    "Services" can be added to give the customer additional amenities. Massage service, cooking service, rental cars, delivery service, etc.
+
+
+
+
+After those settings are added and configured the properties can be added to the data base.
+
+### "Add Accommodation Types" allows to add a new property:
+
+    The window popping up is quite self explainatory and allows to add all relevant information for the property. The settings we added before can be selected and publishing the property is quick and easy.
+
+    !! Because the plugin is also used for hotel management where you can have the same kind of accomodation multiple times, we have to set "Number of Accomodations" to 1 (the property only exists once)!!
+
+    Descriptionary text, media files, image and additional information can be added to provide more relevant information for customers.
+
+The last step is to publish the "Accomodation" (Property)
